@@ -1,5 +1,7 @@
 # TABLE OF CONTENTS
-
+- Project Title
+- Description
+- Files Used
 ## Project Title
 Factors of an NBA Player's Total Points Scored
 ## Description
